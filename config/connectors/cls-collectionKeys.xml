@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ccs:deleteLeads_Marketo_1011" connectorServiceName="ccs:deleteLeads_Marketo_1011"/>
+            <keyDetails collectionKey="ccs:getLeadsByIds_Marketo_1011" connectorServiceName="ccs:getLeadsByIds_Marketo_1011"/>
+            <keyDetails collectionKey="ccs:getMultipleLists_Marketo_1011" connectorServiceName="ccs:getMultipleLists_Marketo_1011"/>
+            <keyDetails collectionKey="ccs:queryLeads_Marketo_1011" connectorServiceName="ccs:queryLeads_Marketo_1011"/>
+            <keyDetails collectionKey="ccs:queryMarketo_1011" connectorServiceName="ccs:queryMarketo_1011"/>
+            <keyDetails collectionKey="ccs:removeLeadsFromList_Marketo_1011" connectorServiceName="ccs:removeLeadsFromList_Marketo_1011"/>
+            <keyDetails collectionKey="ccs:upsertLeads_Marketo_1011" connectorServiceName="ccs:upsertLeads_Marketo_1011"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
